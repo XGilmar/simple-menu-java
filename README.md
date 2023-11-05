@@ -6,4 +6,4 @@ Simple pestaña creada en java swing
 
 ## Screenshot
 
-<img width="300"  align="center" src="https://github.com/XGilmar/simple-menu-java/assets/86094668/1eb5a558-42ee-4010-b0ba-6ac4c808c6ff" />
+<img  src="https://github.com/XGilmar/simple-menu-java/assets/86094668/1eb5a558-42ee-4010-b0ba-6ac4c808c6ff" />
