@@ -1,4 +1,4 @@
-# simple menu java swing
+# Simple Menu Java Swing
 Simple pestaña creada en java swing
 
 ## Libreria usada
